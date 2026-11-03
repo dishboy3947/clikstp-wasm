@@ -1,0 +1,9 @@
+# Build output: build.cmd, the sim's package builder, and Visual Studio.
+obj/
+package/
+Packages/
+PackagesMetadata/
+_PackageInt/
+PackageSources/modules/*.wasm
+.vs/
+*.user

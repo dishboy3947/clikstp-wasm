@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.6.1">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>CLIKSTP Bridge</Title>
+		<Manufacturer/>
+		<Creator>Dishboy Designs</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<PackageOrderHint>CUSTOM_INSTRUMENT_PATCH</PackageOrderHint>
+	<AssetGroups>
+		<AssetGroup Name="modules">
+			<Type Version="0">Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modules\</AssetDir>
+			<OutputDir>modules\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

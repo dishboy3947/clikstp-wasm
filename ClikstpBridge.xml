@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SDK project for the bridge package. Open it in Dev Mode's Project Editor and Build All; the package lands in
+     Packages\clikstp-bridge. build.cmd puts the compiled module in PackageSources\modules first. -->
+<Project Version="2" Name="ClikstpBridge" FolderName="Packages" MetadataFolderName="PackagesMetadata">
+  <OutputDirectory>.</OutputDirectory>
+  <TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+  <Packages>
+    <Package>PackageDefinitions\clikstp-bridge.xml</Package>
+  </Packages>
+</Project>
